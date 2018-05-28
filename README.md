@@ -1,1 +1,6 @@
 # easy_captcha
+该简单验证码来源为网络信息安全攻防学习平台的某道ctf题
+该题链接为http://lab1.xseclab.com/vcode7_f7947d56f22133dbc85dda4f28530268/
+images文件夹为下载的验证码样本
+numbers文件夹为0-9的素材库
+test文件夹为空间向量模型识别的例子
